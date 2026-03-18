@@ -28,4 +28,5 @@ for (i = 0; i < atletas.length; i++) {
   console.log ("Nome: " + atletas[i].nome);
   console.log ("Notas obtidas: " + atletas[i].notas.join(","));
   console.log("Média Válida: " + media);
+  console.log(' ');
 }
